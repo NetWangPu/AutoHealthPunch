@@ -21,7 +21,7 @@
 
 3 配置参数 
 
-``vim ./AutoHealthPunch/user/dxever.json``
+``vim ./AutoHealthPunch/user/bjmf.json``
 
 参数说明：
 - `phone`:  登录手机号
