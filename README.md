@@ -11,7 +11,7 @@
 
 ``yum install php``
 
-2 安装git闯将目录、获取代码
+2 安装git创建目录获取代码
 
 ``yum install git``
 
